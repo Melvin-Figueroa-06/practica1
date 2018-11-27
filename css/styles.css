@@ -168,3 +168,22 @@ footer {
   background-size: cover;
 }
 
+.boton_personalizado{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #FE9A2E;
+    border-radius: 3px;
+    border: 2px solid #FE9A2E;
+  }
+  .boton_personalizado:hover{
+    color: #ffffff;
+    background-color: #F79F81;
+  }
+  .portfolio-logo-contact     {
+    background-image: url(../images/logoC.jpg);
+    background-size: cover;
+
+  }
